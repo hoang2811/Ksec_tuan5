@@ -62,7 +62,7 @@ sudo vi /etc/hosts
 Và thêm vào domain
 
 [...]
-192.168.1.100   nguyenandfriend.wordpress.com
+192.168.1.100   hoang2811.com
 Sau đó Save và đóng file lại.
 
 
